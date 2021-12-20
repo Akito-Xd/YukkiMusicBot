@@ -18,4 +18,3 @@ requests
 rich
 dnspython
 tgcrypto
-git+https://github.com/asmsafone/downloader
