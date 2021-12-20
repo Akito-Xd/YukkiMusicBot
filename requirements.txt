@@ -1,4 +1,4 @@
-yt-dlpaiohttp
+git+https://github.com/asmsafone/downloader
 aiofiles
 asyncio
 ffmpeg-python
